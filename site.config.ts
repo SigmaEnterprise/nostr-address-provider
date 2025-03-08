@@ -1,6 +1,6 @@
 export default {
   // your domain name
-  host: "zaps.lol",
+  host: "nostrprotocol.libretechsystems.xyz",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
@@ -10,7 +10,7 @@ export default {
 
   // your donation LNURL
   donationLNUrl:
-    "LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7JMPVDV9YCC4FVREX",
+    "LNURL1DP68GURN8GHJ7UMPW3EJUMT0VF5J7TNHV4KXCTTTDEHHWM30D3H82UNVWQHNZ7P4V93NJDFCXGMXXVTYVV6XXERYPZQNYL",
 
   // name of your MongoDB database
   dbName: "users",
